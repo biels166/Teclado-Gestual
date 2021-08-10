@@ -15,6 +15,7 @@
  - Converter o gesto captado em uma teclado (Pode escolher qualquer uma, as do programa são apenas exemplos)
 
  **Diagrama de Ligação**
+ 
  *HC-SR04.*
  - VCC: 5V do Arduino DUE
  - Trig: Pino 6 do Arduino DUE
