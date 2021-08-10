@@ -1,4 +1,4 @@
-<h1>Teclado-Gestual<h1>
+<Teclado-Gestual
 
  Teclado para PC utilizando sensor de Gestos
 
@@ -24,5 +24,5 @@
  *APDS-9930.*
  - GND: GND do Arduino DUE
  - VCC: 5V do Arduino DUE
- - SDA: Pino 20 - SDA do ARduino DUE
- - SCL: Pino 21 - SCL do ARduino DUE
+ - SDA: Pino 20 - SDA do Arduino DUE
+ - SCL: Pino 21 - SCL do Arduino DUE
